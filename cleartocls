@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# This file will create a shortcut for `clear` whic u can just 
+ln -s ~/../usr/bin/clear ~/../usr/bin/cls
